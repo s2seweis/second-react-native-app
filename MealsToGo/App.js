@@ -1,59 +1,29 @@
-import {StatusBar} from 'expo-status-bar';
-import {StyleSheet, Text, View, SafeAreaView} from 'react-native';
+import { StatusBar as ExpoStatusBar } from "expo-status-bar";
+import React from "react";
+import { Searchbar } from "react-native-paper";
+import { StatusBar, StyleSheet, SafeAreaView, Text, View } from "react-native";
+import { RestaurantsScreen } from "./src/features/restaurants/screens/restaurants.screen";
 
-export default function App () {
+export default function App() {
   return (
-    <SafeAreaView
-      style={{
-        flex: 1,
-        width: 'auto',
-        height: 500,
-        flexDirection: '',
-      }}
-    >
-      {/* <View
-        style={{
-          // flex: 1,
-          height: 50,
-          backgroundColor: 'grey',
-          width: 'auto',
-        }}
-      /> */}
-      <View
-        style={{
-          // flex: 1,
-          height: 50,
-          backgroundColor: 'green',
-        }}
-      >
-        <Text style={{padding: 10}}>Line:1</Text>
-      </View>
-      <View
-        style={{
-          flex: 1,
-          height: 100,
-          flexGrow: 1,
-          backgroundColor: 'blue',
-        }}
-      >
-        <Text style={{padding: 10}}>Line:2</Text>
-      </View>
-
-      {/* <View style={{
-          // flex: 1,
-          height: 50,
-          backgroundColor:"grey"
-        }} /> */}
-
-    </SafeAreaView>
+    <>
+      <RestaurantsScreen />
+      <ExpoStatusBar style="auto" />
+    </>
   );
 }
 
-const styles = StyleSheet.create ({
+const styles = StyleSheet.create({
   container: {
-    alignItems: 'center',
-    justifyContent: 'center',
     flex: 1,
-    backgroundColor: 'lightblue',
+    marginTop: StatusBar.currentHeight,
+  },
+  search: {
+    padding: 16,
+  },
+  list: {
+    flex: 1,
+    padding: 16,
+    backgroundColor: "blue",
   },
 });
