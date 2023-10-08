@@ -12,6 +12,7 @@ export const AuthenticationContext = createContext();
 
 export const AuthenticationContextProvider = ({ children }) => {
   const [isLoading, setIsLoading] = useState(false);
+  console.log("line:200", isLoading);
   const [user, setUser] = useState(null);
   const [error, setError] = useState(null);
   const auth = useRef(getAuth()).current;
@@ -19,9 +20,9 @@ export const AuthenticationContextProvider = ({ children }) => {
   onAuthStateChanged(auth, (usr) => {
     if (usr) {
       setUser(usr);
-      setIsLoading(false);
+      // setIsLoading(false);
     } else {
-      setIsLoading(false);
+      // setIsLoading(false);
     }
   });
 
@@ -30,10 +31,10 @@ export const AuthenticationContextProvider = ({ children }) => {
     loginRequest(auth, email, password)
       .then((u) => {
         setUser(u);
-        setIsLoading(false);
+        // setIsLoading(false);
       })
       .catch((e) => {
-        setIsLoading(false);
+        // setIsLoading(false);
         setError(e.toString());
       });
   };
@@ -47,10 +48,10 @@ export const AuthenticationContextProvider = ({ children }) => {
     createUserWithEmailAndPassword(auth, email, password)
       .then((u) => {
         setUser(u);
-        setIsLoading(false);
+        // setIsLoading(false);
       })
       .catch((e) => {
-        setIsLoading(false);
+        // setIsLoading(false);
         setError(e.toString());
       });
   };
