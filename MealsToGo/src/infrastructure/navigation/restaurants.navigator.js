@@ -16,14 +16,11 @@ export const RestaurantsNavigator = () => {
       headerMode="none"
       screenOptions={{
         ...TransitionPresets.ModalPresentationIOS,
-        
       }}
     >
       <RestaurantStack.Screen
         name="Restaurants"
         component={RestaurantsScreen}
-        
-        
       />
       <RestaurantStack.Screen
         name="RestaurantDetail"
