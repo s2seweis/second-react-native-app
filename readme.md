@@ -40,3 +40,7 @@
 - Enforce our consistency throughout the project
 - Auto format on saving, industry looking for it
 - Naming conevention also an industry standard 
+
+# Commands:
+- npx create-expo-app --template
+- expo-cli publish
