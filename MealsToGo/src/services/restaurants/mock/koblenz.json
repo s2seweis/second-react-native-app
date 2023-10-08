@@ -1,0 +1,876 @@
+{
+    "html_attributions": [],
+    "next_page_token": "some token",
+    "results": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2132707,
+            "lng": 7.4168305
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2145994302915,
+              "lng": 7.418074130291502
+            },
+            "southwest": {
+              "lat": 50.2119014697085,
+              "lng": 7.415376169708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Mercure Koblenz City Centre",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 1",
+        "rating": 4,
+        "reference": "",
+        "user_ratings_total": 832,
+        "vicinity": "Quinten Matsijslei 25, Koblenz"
+      },
+      {
+        "geometry": {
+          "location": {
+            "lat": 50.21366200000001,
+            "lng": 7.405077
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2150259802915,
+              "lng": 7.406393180291502
+            },
+            "southwest": {
+              "lat": 50.2123280197085,
+              "lng": 7.403695219708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Elzenveld Hotel & Seminar",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 2",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "reference": "",
+        "scope": "",
+        "types": [
+          "spa",
+          "lodging",
+          "restaurant",
+          "food",
+          "gym",
+          "health",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Lange Gasthuisstraat 45, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.220671,
+            "lng": 7.399616700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2220094802915,
+              "lng": 7.400740480291502
+            },
+            "southwest": {
+              "lat": 50.2193115097085,
+              "lng": 7.398042509708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "HotelO",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2000,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 3000
+          }
+        ],
+        "place_id": "some place id 3",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 7.3,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "travel_agency",
+          "lodging",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 321,
+        "vicinity": "Handschoenmarkt 3/5, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2093238,
+            "lng": 7.39107
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2107127302915,
+              "lng": 7.392468230291503
+            },
+            "southwest": {
+              "lat": 50.2080147697085,
+              "lng": 7.389770269708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "The Glorious Inn",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 4",
+        "rating": 7.6,
+        "reference": "",
+        "user_ratings_total": 152,
+        "vicinity": "De Burburestraat 4A, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2085756,
+            "lng": 7.3922755
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2098682302915,
+              "lng": 7.393753530291503
+            },
+            "southwest": {
+              "lat": 50.2071702697085,
+              "lng": 7.391055569708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Hotel Pilar",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 5",
+        "rating": 7.2,
+        "reference": "",
+  
+        "user_ratings_total": 150,
+        "vicinity": "Leopold de Waelplaats 34, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2210731,
+            "lng": 7.4030571
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2224264802915,
+              "lng": 7.404163080291502
+            },
+            "southwest": {
+              "lat": 50.2197285097085,
+              "lng": 7.401465019708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "De Peerdestal | Restaurant Koblenz",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 6",
+        "price_level": 2,
+        "rating": 7.3,
+        "reference": "",
+        "user_ratings_total": 766,
+        "vicinity": "Wijngaardstraat 8, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.215643,
+            "lng": 7.399502000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.21704323029149,
+              "lng": 7.400861330291503
+            },
+            "southwest": {
+              "lat": 50.2143452697085,
+              "lng": 7.398163369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Huis De Colvenier",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 7",
+        "rating": 7.2,
+        "reference": "",
+        "user_ratings_total": 122,
+        "vicinity": "Sint-Antoniusstraat 8, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.21939859999999,
+            "lng": 7.3991545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2206672302915,
+              "lng": 7.400538980291503
+            },
+            "southwest": {
+              "lat": 50.2179692697085,
+              "lng": 7.397841019708499
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Il Milanese by Lollapalooza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 8",
+        "price_level": 2,
+        "rating": 7.4,
+        "reference": "",
+        "user_ratings_total": 156,
+        "vicinity": "Pelgrimstraat 28, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2205556,
+            "lng": 7.401666699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2219723802915,
+              "lng": 7.403506180291502
+            },
+            "southwest": {
+              "lat": 50.2192744197085,
+              "lng": 7.400808219708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Het Vermoeide Model",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 0,
+            "html_attributions": [],
+            "photo_reference": "",
+            "width": 0
+          }
+        ],
+        "place_id": "some place id 9",
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "",
+        "user_ratings_total": 441,
+        "vicinity": "Lijnwaadmarkt 2, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.21901699999999,
+            "lng": 7.399416899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2203960302915,
+              "lng": 7.400800780291502
+            },
+            "southwest": {
+              "lat": 50.2176980697085,
+              "lng": 7.398102819708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "'t Fornuis",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 2048
+          }
+        ],
+        "place_id": "some place id 10",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 4,
+        "rating": 7.7,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 152,
+        "vicinity": "Reyndersstraat 24, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2141321,
+            "lng": 7.409785000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2154825302915,
+              "lng": 7.410900480291502
+            },
+            "southwest": {
+              "lat": 50.2127845697085,
+              "lng": 7.408202509708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Lunchbox",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3139,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 6153
+          }
+        ],
+        "place_id": "some place id 11",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 7.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "bar",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 689,
+        "vicinity": "Nieuwstad 8, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.21892750000001,
+            "lng": 7.3944361
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2201378802915,
+              "lng": 7.396247430291502
+            },
+            "southwest": {
+              "lat": 50.2174399197085,
+              "lng": 7.393549469708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Zuiderterras / RAS",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 3024
+          }
+        ],
+        "place_id": "some place id 12",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 7.2,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "restaurant",
+          "cafe",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 854,
+        "vicinity": "Ernest Van Dijckkaai 37, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.22667930000001,
+            "lng": 7.406505799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2281167302915,
+              "lng": 7.407858080291502
+            },
+            "southwest": {
+              "lat": 50.2254187697085,
+              "lng": 7.405060119708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Pazzo",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 639,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 1136
+          }
+        ],
+        "place_id": "some place id 13",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 7.5,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 316,
+        "vicinity": "Oudeleeuwenrui 12, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2164307,
+            "lng": 7.409301300000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2178396302915,
+              "lng": 7.410637980291503
+            },
+            "southwest": {
+              "lat": 50.2150416697085,
+              "lng": 7.407940019708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Horta Grand Café & Art Nouveau Zaal",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3376,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 6000
+          }
+        ],
+        "place_id": "some place id 14",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 7.1,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 1274,
+        "vicinity": "Hopland 2, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.220236,
+            "lng": 7.399357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2218302802915,
+              "lng": 7.400721680291503
+            },
+            "southwest": {
+              "lat": 50.2191323197085,
+              "lng": 7.398023719708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Sir Anthony Van Dijck",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 480
+          }
+        ],
+        "place_id": "some place id 15",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 4,
+        "rating": 7.4,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 311,
+        "vicinity": "Oude Koornmarkt 16, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2129287,
+            "lng": 7.3923955
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2142454302915,
+              "lng": 7.393706330291502
+            },
+            "southwest": {
+              "lat": 50.2115474697085,
+              "lng": 7.391008369708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "name": "Mañana Mañana",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 683,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 1024
+          }
+        ],
+        "place_id": "some place id 16",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "rating": 7.9,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "cafe",
+          "lodging",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 60,
+        "vicinity": "Scheldestraat 15, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2103946,
+            "lng": 7.4020686
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2117150802915,
+              "lng": 7.403286930291502
+            },
+            "southwest": {
+              "lat": 50.2090172197085,
+              "lng": 7.400588969708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "De Broers van Julienne",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1242,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 2038
+          }
+        ],
+        "place_id": "some place id 17",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 7.1,
+        "reference": "",
+        "scope": "",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 335,
+        "vicinity": "Kasteelpleinstraat 45/47, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.21393579999999,
+            "lng": 7.4067937
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2153003802915,
+              "lng": 7.408306030291503
+            },
+            "southwest": {
+              "lat": 50.2126024197085,
+              "lng": 7.405608069708498
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Het Gebaar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 427,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 640
+          }
+        ],
+        "place_id": "some place id 18",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 4,
+        "rating": 7.7,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 362,
+        "vicinity": "Leopoldstraat 24, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.219929,
+            "lng": 7.4005703
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.22113493029149,
+              "lng": 7.403586499999999
+            },
+            "southwest": {
+              "lat": 50.2184369697085,
+              "lng": 7.399564900000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Da Giovanni Groenplaats TAKE OUT",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1772,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 2658
+          }
+        ],
+        "place_id": "some place id 19",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 4311,
+        "vicinity": "Jan Blomstraat 8, Koblenz"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 50.2193315,
+            "lng": 7.3989002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 50.2206958802915,
+              "lng": 7.400262280291502
+            },
+            "southwest": {
+              "lat": 50.2179979197085,
+              "lng": 7.397564319708497
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "name": "Bij Lam & Yin",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 478,
+            "html_attributions": [""],
+            "photo_reference": "",
+            "width": 850
+          }
+        ],
+        "place_id": "some place id 20",
+        "plus_code": {
+          "compound_code": "",
+          "global_code": "",
+        },
+        "price_level": 3,
+        "rating": 7.6,
+        "reference": "",
+        "scope": "",
+        "types": ["restaurant", "food", "point_of_interest", "establishment"],
+        "user_ratings_total": 150,
+        "vicinity": "Reyndersstraat 17, Koblenz"
+      }
+    ],
+    "status": "OK"
+  }
+  

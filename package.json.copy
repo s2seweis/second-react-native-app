@@ -1,11 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "second",
+=======
+  "name": "mealstogo",
+>>>>>>> d6c3a08b7c0cfa8cc8d80443b1e2ac2a48228fc7
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
+<<<<<<< HEAD
     "web": "expo start --web"
   },
   "dependencies": {
@@ -17,6 +22,28 @@
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+=======
+    "web": "expo start --web",
+    "lint": "eslint . --ext .js"
+  },
+  "dependencies": {
+    "@expo-google-fonts/lato": "^0.1.0",
+    "@expo-google-fonts/oswald": "^0.1.0",
+    "expo": "~49.0.13",
+    "expo-font": "~11.4.0",
+    "expo-status-bar": "~1.6.0",
+    "react": "18.2.0",
+    "react-native": "0.72.5",
+    "react-native-paper": "^4.5.0",
+    "styled-components": "^6.0.8",
+    "react-native-svg": "12.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "eslint": "^7.16.0",
+    "prettier": "^2.2.1"
+>>>>>>> d6c3a08b7c0cfa8cc8d80443b1e2ac2a48228fc7
   },
   "private": true
 }
