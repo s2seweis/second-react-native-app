@@ -3,24 +3,22 @@
 - Practise Native Development
 
 # Features
-- Firebase Database
-- Authentication
+- Firebase Authentication
 - Camera
-- Google Maps
-- Stripe Payment
-
+- Using Local Storage on the phone
+- Native Navigation 
+- useContext, provides a way to pass data through the component tree without having to pass props down
 
 ## app.json controls the metadata from the application like name in the store, icon on the phone, splashscreen and so on
 
 # React Native for
-- Mobile & Web bu here mainly the focus on mobile
+- Mobile & Web, here mainly the focus on mobile
 
 # Element Inspector
 - cmd + ctrl + z
 
 # Interisting
-- We can rename the imports by as, for example:
-- import { StatusBar as ExpoStatusbar } from 'expo-status-bar'
+- We can rename the imports by as, for example: import { StatusBar as ExpoStatusbar } from 'expo-status-bar'
 - <></> = React Fragement, Fragments are a way to group multiple React elements without adding extra nodes to the DOM.
 - <></> = <React.Fragment></React.Fragement>
 - Code => Preferences => Setting => "format on save" => check box, Format on Save
