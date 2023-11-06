@@ -23,8 +23,9 @@
 - Mobile & Web, here mainly the focus on mobile
 
 ## Element Inspector
+```
 - cmd + ctrl + z
-
+```
 ## Interisting
 - We can rename the imports by as, for example: import { StatusBar as ExpoStatusbar } from 'expo-status-bar'
 - <></> = React Fragement, Fragments are a way to group multiple React elements without adding extra nodes to the DOM.
@@ -33,8 +34,14 @@
 
 # Eslint
 ***ESLint (find and fix Problems)***
-1. npm install eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y eslint-plugin-import --save-dev
-2. npx eslint --init
+1. 
+```
+npm install eslint eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-jsx-a11y eslint-plugin-import --save-dev
+```
+2. 
+```
+npx eslint --init
+```
 3. define .eslintrc according to your needs
 
 ## Extension:
